@@ -24,6 +24,12 @@ header {
     padding-left: 11%;
 }
 
+.atom{
+    width: 80%;
+    height: 80%;
+    align-items: center;
+}
+
 main {
     padding: 40px 20px;
     max-width: 800px;
